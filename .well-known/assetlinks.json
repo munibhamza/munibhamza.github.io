@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.lockhart.cashpass",
+      "sha256_cert_fingerprints": [
+        "E3:C1:B9:8A:54:58:B9:95:38:CE:8B:11:F7:12:24:57:AD:C4:2F:31:A7:32:6C:1D:37:94:11:38:29:63:E3:3E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.performanceloyalty.android",
+      "sha256_cert_fingerprints": [
+        "6C:B4:7E:74:14:74:B0:BD:68:79:72:90:ED:8A:97:FE:04:F5:BC:66:09:E0:F1:69:6C:34:B5:CF:5D:87:58:B4"
+      ]
+    }
+  }
+]
